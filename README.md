@@ -13,7 +13,7 @@ CCF 学科前沿讲习班第 108 期：知识图谱融合方法，2019/11/9，�
 ( If you use this slides, please kindly cite it as follows: )      
 ```
 胡伟. 知识图谱融合方法. CCF 学科前沿讲习班, 2019  
-(Wei Hu. Tutorial on Knowledge Graph Fusion. The CCF Advanced Disciplines Lectures, 2019)
+( Wei Hu. Tutorial on Knowledge Graph Fusion. The CCF Advanced Disciplines Lectures, 2019 )
 ```
 
 ## 参考文献
