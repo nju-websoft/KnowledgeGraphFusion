@@ -1,6 +1,6 @@
 # 知识图谱融合方法  
 CCF 学科前沿讲习班第 108 期：知识图谱融合方法，2019/11/9，北京  
-(CCF ADL #108: Tutorial on Knowledge Graph Fusion, 2019/11/9, Beijing)
+( CCF ADL #108: Tutorial on Knowledge Graph Fusion, 2019/11/9, Beijing )
 
 
 ## 摘要
@@ -10,7 +10,7 @@ CCF 学科前沿讲习班第 108 期：知识图谱融合方法，2019/11/9，�
 胡伟，博士，南京大学计算机科学与技术系副教授、博士生导师。
 
 如果您使用了本讲稿，请按如下引用：  
-(If you use this slides, please kindly cite it as follows:)      
+( If you use this slides, please kindly cite it as follows: )      
 ```
 胡伟. 知识图谱融合方法. CCF 学科前沿讲习班, 2019  
 (Wei Hu. Tutorial on Knowledge Graph Fusion. The CCF Advanced Disciplines Lectures, 2019)
@@ -35,7 +35,7 @@ CCF 学科前沿讲习班第 108 期：知识图谱融合方法，2019/11/9，�
 * Matching large ontologies: A divide-and-conquer approach. DKE, 2008
 * RiMOM: A dynamic multistrategy ontology alignment framework. TKDE, 2009
 * LogMap: Logic-based and scalable ontology matching. ISWC, 2011
-* SMap: 基于语义的关系数据库模式与OWL本体间映射方法. 计算机研究与发展, 2012
+* SMap: 基于语义的关系数据库模式与 OWL 本体间映射方法. 计算机研究与发展, 2012
 * An extensible linear approach for holistic ontology matching. ISWC, 2016
 * Cross-lingual infobox alignment in Wikipedia using entity-attribute factor graph. ISWC, 2017
 
