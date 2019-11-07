@@ -1,7 +1,7 @@
 # 知识图谱融合方法  
-CCF 学科前沿讲习班第 108 期，2019/11/9，北京
+CCF 学科前沿讲习班第 108 期：知识图谱融合方法，2019/11/9，北京
 
-_CCF ADL #108: Tutorial on Knowledge Graph Fusion_
+_CCF ADL #108: Tutorial on Knowledge Graph Fusion, 2019/11/9, Beijing_
 
 
 ## 摘要
