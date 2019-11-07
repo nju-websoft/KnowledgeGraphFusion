@@ -1,6 +1,6 @@
 # 知识图谱融合方法  
 CCF 学科前沿讲习班第 108 期：知识图谱融合方法，2019/11/9，北京  
-_// CCF ADL #108: Tutorial on Knowledge Graph Fusion, 2019/11/9, Beijing_
+(CCF ADL #108: Tutorial on Knowledge Graph Fusion, 2019/11/9, Beijing)
 
 
 ## 摘要
@@ -8,6 +8,13 @@ _// CCF ADL #108: Tutorial on Knowledge Graph Fusion, 2019/11/9, Beijing_
 
 ## 报告人
 胡伟，博士，南京大学计算机科学与技术系副教授、博士生导师。
+
+如果您使用了本讲稿，请按如下引用：  
+(If you use this slides, please kindly cite it as follows:)      
+```
+胡伟. 知识图谱融合方法. CCF 学科前沿讲习班, 2019  
+(Wei Hu. Tutorial on Knowledge Graph Fusion. The CCF Advanced Disciplines Lectures, 2019)
+```
 
 ## 参考文献
 本报告参考了以下论文和讲稿。由于报告人水平所限，错误和遗漏在所难免，恳切希望听众批评指正！
